@@ -73,7 +73,7 @@ export function Footer() {
           </div>
           <span className={s.logolink__span}>AquaShine</span>
         </Link>
-        <p className={s.copyright}>© 2025 AquaShine. Все права защищены.</p>
+        <p className={s.copyright}>© 2025 AquaShine. </p>
       </div>
     </footer>
   )
